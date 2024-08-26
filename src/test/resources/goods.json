@@ -1,0 +1,10 @@
+{
+  "title": "example good",
+  "ID": 822110,
+  "name": "ДЖЕМПЕР ЖЕНСКИЙ",
+  "price": {
+     "typeCode": "Retail",
+     "typeName": "Розничная цена",
+     "price": "999.00"
+  } 
+}
